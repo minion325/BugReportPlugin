@@ -1,0 +1,4 @@
+name: BugReportPlugin
+version: '${project.version}'
+main: me.saif.bugreportplugin.BugReportPlugin
+api-version: 1.18
